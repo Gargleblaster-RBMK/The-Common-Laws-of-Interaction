@@ -1,18 +1,30 @@
+
 > [!IMPORTANT]
 > Most features described in this repository are not implemented yet. This README currently serves as a "to-do" list. Once all features are implemented, this message will be removed.
 
-# The <ins>Co</ins>mmon <ins>La</ins>ws of <ins>So</ins>cial <ins>B</ins>ehavior (CoLa-SoB)
-> Kolasab [/ˈkoʊ.lɑ.sæb/ : KOH-lah-sab] Derived from the acronym "CoLa-SoB"
+# The <ins>C</ins>ommon <ins>L</ins>aws <ins>o</ins>f <ins>S</ins>oci<ins>a</ins>l <ins>B</ins>ehavior (Klosab, CLoSaB)
+> Klosab [ /ˈkloʊ.sæb/ : KLO-sab] 
+> Derived from the acronym "CLoSaB" - The <ins>C</ins>ommon <ins>L</ins>aws <ins>o</ins>f <ins>S</ins>oci<ins>a</ins>l <ins>B</ins>ehavior
+>  
+> ---
+>
+> 1. A digital database that contains natural laws about the social behavior of homo-sapins (Humans), and definitions about said natural laws. 
+> 2. A Klosab is a set of files and or text that aims to act as a dictionary for human behavior.
+> 
+> ---
+>
+>Example Usage:
+> "I wanted to talk about the Inverse Law Of Authority."
 
-**The Common Laws of Social Behavior** (aka **The Kolasab**) is a dictionary-style reference that outlines the patterns and quirks of human social behavior. Its purpose is to provide a standardized, unbiased, yet witty way to describe natural phenomena in human interactions.
+**The Common Laws of Social Behavior** (aka **The Klosab**) is a dictionary-style reference that outlines the patterns and quirks of human social behavior. Its purpose is to provide a standardized, unbiased, yet witty way to describe natural phenomena in human interactions.
 
-Whether you're trying to explain why people always talk over each other during debates, why Kanye never got that fish-sticks joke (JK, we still have no idea 😭), or why your math teacher won't stop talking about their spouse, **The Kolasab** has you covered. It documents the unspoken rules of social behavior in a unique, easy-to-reference format.
+Whether you're trying to explain why people always talk over each other during debates, figure out why Kanye never got that fish-sticks joke (JK, we still have no idea 😭), or why your math teacher won't stop talking about their wife's knitting, **The Klosab** has you covered. It documents the unspoken rules of social behavior in a unique, easy-to-reference format.
 
 ---
 
 ## 📋 Overview
 
-### **What is The Kolasab?**
+### **What is The Klosab?**
 - A collection of "laws" describing common patterns, behaviors, and interactions among humans.  
 - Humorous, witty, and easy to understand.
 
@@ -27,13 +39,18 @@ Whether you're trying to explain why people always talk over each other during d
 ---
 
 ## 📌 Getting Started
-To use **The Kolasab**, browse or search for laws by flow (flowchart-style), tags, or name and reference them as needed. Each law describes a common human behavior or interaction with humor and insight, while comics explore relationships between multiple laws.
+To use **The Klosab**, browse or search for laws by flow (flowchart-style), tags, or name and reference them as needed. Each law describes a common human behavior or interaction with humor and insight, while comics explore relationships between multiple laws.
 
 ### Example Law
 
 **The Inverse Ratio Between the Size of the Mouth and the Size of the Brain**:
 
-The louder or more a person talks, the smaller the likely size of their brain (roughly inverse).
+The louder and/or more a person talks, the smaller the size of their brain (At a roughly inverse ratio | Most likely).
+There are X exceptions to this law:
+1. Speeches
+2. Talks
+3. Research Papers
+4.  Online Arguments when they make valid points, and throw constructive criticism.
 
 **Example:**
 > IQ = 71: "blahbblahlahblahblahblahblahblah"  
@@ -41,13 +58,13 @@ The louder or more a person talks, the smaller the likely size of their brain (r
 
 ---
 
-## 📑 Referencing The Kolasab
+## 📑 Referencing The Klosab
 
 ### Online Discussions
 - Use a hyperlink to the page or a proper citation (such as MLA).
 
 ### Real-Life Conversations
-- Avoid referencing The Kolasab with strangers or new acquaintances.  
+- Avoid referencing The Klosab with strangers or new acquaintances.  
 - Among friends, share the homepage link, then reference a law during discussion.
 
 ### Citation (for essays, papers, and research)
@@ -79,11 +96,11 @@ Please respect these licenses when contributing or redistributing this work (e.g
 
 ## 🤔 Frequently Asked Questions
 
-### Who should use The Kolasab?
+### Who should use The Klosab?
 Anyone who enjoys humor and wants a fun, standardized way to explain human behavior.
 
 ### Is this a scientific resource?
-***Absolutely not!*** While based on real-life observations, **The Kolasab** is a lighthearted, witty take on human behavior.
+***Absolutely not!*** While based on real-life observations, **The Klosab** is a lighthearted, witty take on human behavior.
 
-> ## Disclaimer:
-> The Common Laws of Social Behavior (CoLa-SoB / Kolasab) are not based on scientific data, research papers, studies, or any unbiased data. They do not claim to be. Anyone suggesting otherwise is speaking without factual basis.
+> # Disclaimer:
+> This Klosab is not based on scientific data, research papers, studies, or any unbiased data. We do not claim to be. Anyone suggesting otherwise is speaking without factual basis.
