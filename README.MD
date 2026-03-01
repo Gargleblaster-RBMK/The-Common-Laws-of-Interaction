@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Most features described in this repository are not implemented yet. This README currently serves as a "to-do" list. Once all features are implemented, this message will be removed.
+
 # The <ins>Co</ins>mmon <ins>La</ins>ws of <ins>So</ins>cial <ins>B</ins>ehavior (CoLa-SoB)
 > Kolasab [/ˈkoʊ.lɑ.sæb/ : KOH-lah-sab] Derived from the acronym "CoLa-SoB"
 
@@ -15,26 +18,26 @@ Whether you're trying to explain why people always talk over each other during d
 
 ### **Purpose**
 - Provide a standardized way to refer to recurring human behaviors in social or professional settings.  
-- Useful for casual conversation, psychology discussions, or just for laughs.
+- Useful for casual conversation, psychology discussions, or just for laughs (go mock our work—it improves engagement!).
 
 ### **Content**
-- Dictionary-style entries, where each "law" is a word (think Merriam-Webster, but witty).  
-- Weekly articles explaining how 2–5 laws interact with each other, voted on by the community.
+- Dictionary-style entries, where each "law" is a word (think Merriam-Webster, but witty and not strictly a dictionary).  
+- Weekly comics explaining how 2–5 laws interact with each other, similar in spirit to XKCD.
 
 ---
 
 ## 📌 Getting Started
-To use **The Kolasab**, simply browse or search for laws by interaction type or name and reference them as needed. Each law describes a common human behavior or interaction with humor and insight, while articles explore relationships between multiple laws.
+To use **The Kolasab**, browse or search for laws by flow (flowchart-style), tags, or name and reference them as needed. Each law describes a common human behavior or interaction with humor and insight, while comics explore relationships between multiple laws.
 
 ### Example Law
 
-**The Inverse Law of Authoritative Figures**:
+**The Inverse Ratio Between the Size of the Mouth and the Size of the Brain**:
 
-When an authority figure tells you what to do, you’re often inclined to do the opposite.
+The louder or more a person talks, the smaller the likely size of their brain (roughly inverse).
 
-**Example Interaction:**
-- Professor/Teacher: "Please don't say `moist`!"  
-- The class: "***Moist.***"
+**Example:**
+> IQ = 71: "blahbblahlahblahblahblahblahblah"  
+> IQ = 110: "blah"
 
 ---
 
@@ -47,8 +50,8 @@ When an authority figure tells you what to do, you’re often inclined to do the
 - Avoid referencing The Kolasab with strangers or new acquaintances.  
 - Among friends, share the homepage link, then reference a law during discussion.
 
-### MLA
-- Included at the footer of each page.
+### Citation (for essays, papers, and research)
+- Included near the footer of each page; citation includes the last Git commit to the currently viewed page (SHA256 short hash, date of commit, and last person to commit).
 
 ---
 
